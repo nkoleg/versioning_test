@@ -1,1 +1,7 @@
-# versionning_test
+# Versioning example
+
+
+## For build projects
+### mkdir build && cd build
+### cmake ..
+### make
